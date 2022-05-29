@@ -1,46 +1,45 @@
-# awesome-nextcloud
-List of awesome tools for NextCloud and OwnCloud
+# somcloud-nextcloud
+Llista d'eines increïbles per a NextCloud i OwnCloud
 
 ## Apps
-### Unofficial
-* [galleryplus](https://github.com/oparoz/galleryplus) - Extended gallery app for NC
-* [locationtracker](https://github.com/schiessle/locationtracker) - Track devices with ownTracks
-* [nextcloud-keeweb](https://github.com/jhass/nextcloud-keeweb) - A KeePass password manager in NC
-* [nextcloud-paper](https://github.com/andreasjacobsen93/nextcloud-paper) - Instapaper clone for NC (*deprecated*)
-* [nextcloud-terminal](https://github.com/gabor-udvari/nextcloud-terminal) - Xterm compatible terminal for NC (*pre-alpha*)
-* [nextcloudTaskToMap](https://github.com/valentinbonneaud/nextcloudTaskToMap) - Display a map with the locations from tasks
-* [ocr](https://github.com/janis91/ocr) - OCR processing for images and PDF in NC
-* [personalfinances](https://github.com/matiasdelellis/personalfinances) - Finance manager for NC
-* [polls](https://github.com/v1r0x/polls) - Polls app for NC
-* [quicknotes](https://github.com/matiasdelellis/quicknotes) - Notes app for NC
-* [searchlight](https://github.com/icewind1991/searchlight) - Fuzzy search for NC
-* [timetracker](https://github.com/jakobsack/timetracker) - A time tracker for nextcloud
+#### No oficials
+* [galleryplus](https://github.com/oparoz/galleryplus) - App de Galeria millorada per for NC
+* [locationtracker](https://github.com/schiessle/locationtracker) - Seguiment de dispositius amb ownTracks
+* [nextcloud-keeweb](https://github.com/jhass/nextcloud-keeweb) - Un gestor de contrasenyes de KeePass a NC
+* [nextcloudTaskToMap](https://github.com/valentinbonneaud/nextcloudTaskToMap) - Mostra un mapa amb les ubicacions de les tasques
+* [ocr](https://github.com/janis91/ocr) - Processament OCR d'imatges i PDF a NC
+* [personalfinances](https://github.com/matiasdelellis/personalfinances) - Responsable financer de NC
+* [polls](https://github.com/v1r0x/polls) - Aplicació d'enquestes per a NC
+* [quicknotes](https://github.com/matiasdelellis/quicknotes) - Aplicació de notes per a NC
+* [searchlight](https://github.com/icewind1991/searchlight) - Cerca difusa de NC
+* [timetracker](https://github.com/jakobsack/timetracker) - Un rastrejador de temps per a nextcloud
 * [vinecellar](https://github.com/ChristophWurst/vinecellar) - A simple vine downloader for NC
 
-### Official
-* [activity](https://github.com/nextcloud/activity) - Activity app for NC
-* [bookmarks](https://github.com/nextcloud/bookmarks) - Bookmarks app for NC
-* [calendar](https://github.com/nextcloud/calendar) - Calendar app for NC
-* [circles](https://github.com/nextcloud/circles) - Create groups in NC
-* [contacts](https://github.com/nextcloud/contacts) - Contacts app for NC
-* [deck](https://github.com/nextcloud/deck) - Kanban-style project & personal management tool for NC, similar to Trello
-* [files_antivirus](https://github.com/nextcloud/files_antivirus) - Antivirus app for NC
-* [gallery](https://github.com/nextcloud/gallery) - Gallery app for NC
-* [impersonate](https://github.com/nextcloud/impersonate) - Lets admins become differet users.
-* [mail](https://github.com/nextcloud/mail) - Mail app for NC
-* [maps](https://github.com/nextcloud/maps) - Maps app for NC
-* [nextant](https://github.com/nextcloud/nextant) - Full-text search using Solr
-* [news](https://github.com/nextcloud/news) - RSS/Atom feed reader
-* [notes](https://github.com/nextcloud/notes) - Notes apps for NC
-* [notifications](https://github.com/nextcloud/notifications) - Notification app for NC
+
+#### Oficials
+* [activity](https://github.com/nextcloud/activity) - Aplicació d'activitats per a NC
+* [bookmarks](https://github.com/nextcloud/bookmarks) - Aplicació d'adreces d'interès per a NC
+* [calendar](https://github.com/nextcloud/calendar) - Aplicació de calendari per NC
+* [circles](https://github.com/nextcloud/circles) - Crea grups a NC
+* [contacts](https://github.com/nextcloud/contacts) - Aplicació de contactes per NC
+* [deck](https://github.com/nextcloud/deck) - Projecte d'estil Kanban i eina de gestió personal per a NC, similar a Trello
+* [files_antivirus](https://github.com/nextcloud/files_antivirus) - Aplicació Antivirus per NC
+* [gallery](https://github.com/nextcloud/gallery) - Aplicació de Fotos per NC
+* [impersonate](https://github.com/nextcloud/impersonate) - Permet que els administradors esdevinguin usuaris diferents.
+* [mail](https://github.com/nextcloud/mail) - Aplicació de Correu electrònic per NC
+* [maps](https://github.com/nextcloud/maps) - Aplicació de mapes per NC
+* [nextant](https://github.com/nextcloud/nextant) - Cerca de text complet amb Solr
+* [news](https://github.com/nextcloud/news) - Lector de canals RSS/Atom
+* [notes](https://github.com/nextcloud/notes) - Aplicacions de notes per a NC
+* [notifications](https://github.com/nextcloud/notifications) - Aplicació de notificació per a NC
 * [ocsms](https://github.com/nextcloud/ocsms) - NC PhoneSync
-* [passman](https://github.com/nextcloud/passman) - Password Manager for NC
-* [passman-android](https://github.com/nextcloud/passman-android) - Android app for Passman
+* [passman](https://github.com/nextcloud/passman) - Gestor de contrasenyes per a NC
+* [passman-android](https://github.com/nextcloud/passman-android) - Aplicació d'Android per a Passman
 * [quota_warning](https://github.com/nextcloud/quota_warning) - Send warnings to users
-* [richdocuments](https://github.com/nextcloud/richdocuments) - Collabora online for NC
-* [spreed](https://github.com/nextcloud/spreed) - Video & audio calls for NC
-* [tasks](https://github.com/nextcloud/tasks) - Tasks app for NC
-* [weather](https://github.com/nextcloud/weather) - Weather app for NC
+* [richdocuments](https://github.com/nextcloud/richdocuments) - Enviar avisos als usuaris
+* [spreed](https://github.com/nextcloud/spreed) - Trucades de vídeo i àudio per a NC
+* [tasks](https://github.com/nextcloud/tasks) - Aplicació de tasques per a NC
+* [weather](https://github.com/nextcloud/weather) - Aplicació meteorològica per a NC
 
 ## Themes
 * [nextcloud-themes](https://github.com/Chais/nextcloud-themes) - A collection of themes for NC
